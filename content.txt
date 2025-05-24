@@ -1,0 +1,85 @@
+Fuel consumption combined: 13.2 l/100 km (preliminary value), CO2-emissions combined (WLTP)*: 299 g/km (preliminary value), CO2 Class: G (preliminary value)
+
+
+
+
+-- Engine and technical Specifications 
+
+High-revving naturally aspirated engine.
+The 4.0 l six-cylinder flat engine uses 4-valve technology including valve lever and rigid valve drive as well as forged pistons and titanium con rods. Also from the world of motorsport: the dry sump lubrication with separate engine oil tank.
+
+More robust.
+The sports 7-speed Porsche Doppelkupplung (PDK) is especially robust on the race track, thanks to a modified bleeding system with an adjusted ratio.
+
+
+
+
+-- Aerodynamics 
+
+Porsche Active Aerodynamics (PAA).
+For higher cornering speeds, the front diffuser and rear wing are adjusted entirely automatically to the driving situation in just fractions of a second. The Drag Reduction System (DRS) provides the best conditions for the next flying lap by reducing drag on the straight.
+
+Wide Turbo body with lateral air intakes.
+The wide Turbo body with lateral air intakes significantly contributes to the aerodynamic optimisation of the 911 GT3 RS – and reinforces its athletic appearance. It also opens up space for wider wheels that improve handling even further.
+
+
+
+-- Brakes
+Providing high dimensional stability and very good response: 6-piston aluminium front brake callipers and 4-piston aluminium rear brake callipers in monobloc. The optional Porsche Ceramic Composite Brake (PCCB) is even more committed to lightweight construction and motorsport.
+
+
+
+
+-- Lightweight construction
+
+Thrilling lightness.
+The consistent use of carbon fibre reinforced plastic (CFRP) enables an unladen weight of just 1,450 kg. The fenders, bonnet in a specific RS shape and roof, among other elements, are all made of motorsports-tested materials. The CFRP rear wing with active aerodynamics, CFRP doors for optimised wheel arch vents, and lightweight forged aluminium and magnesium wheels also yield significant advantages on the race track.
+
+Lightweight glazing.
+The lightweight glazing with laminated glass and acoustic film on the windscreen, door and rear side windows and rear screen not only optimises the vehicle weight, but also improves the interior acoustics – by minimising external noise such as rolling and wind noise.
+
+
+
+
+
+
+
+
+
+
+#####    Detailed Specifications    #####
+
+-- Power unit
+Number of cylinders
+6
+Bore
+102.0 mm
+Stroke
+81.5 mm
+Displacement
+3,996 cm³
+Power (kW)
+386 kW
+Power (PS)
+525 PS
+Maximum engine speed
+9,000 1/min
+Max. torque
+465 Nm
+Max. output per liter (kW/l)
+96.00 kW/l
+Max. output per liter (PS/l)
+131.00 PS/l
+
+
+-- Performance
+Top speed
+296 km/h
+Acceleration 0 - 100 km/h
+3.2 s
+Acceleration 0 - 160 km/h
+6.9 s
+Acceleration 0 - 200 km/h
+10.6 s
+In-gear acceleration (80-120km/h) (50-75 mph)
+1.8 s

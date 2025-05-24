@@ -8,4 +8,64 @@
     --font-lato: "Lato", sans-serif;
 }
 
+body {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
 
+header {
+    width: 100%;
+    padding: 30px 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* transform: translateX(25%); */
+    font-family: var(--font-lato);
+}
+
+header .container {
+    max-width: 1200px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-btn {
+    display: flex;
+    align-items: center;
+    font-size: 19px;
+}
+
+header .container .nav-btn ion-icon {
+    font-size: 27px;
+}
+
+header .container .logo {
+    background: url(/assests/images/porsche-logo.png);
+    height: 15px;
+    width: 220px;
+    background-size: cover;
+    background-position: center;
+}
+
+.costumer-support {
+    display: flex;
+    align-items: center;
+    font-size: 21px;
+}
+
+main {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#home {
+    max-width: 1200px;
+    width: 100%;
+    margin: 30px 0;
+    padding: 0 30px;
+}

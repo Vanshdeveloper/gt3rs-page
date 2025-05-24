@@ -1,6 +1,9 @@
 Fuel consumption combined: 13.2 l/100 km (preliminary value), CO2-emissions combined (WLTP)*: 299 g/km (preliminary value), CO2 Class: G (preliminary value)
 
 
+2023 Porsche 911 GT3 RS
+The 2023 Porsche 911 GT3 RS is a high-performance sports car that combines cutting-edge technology with
+a track-focused design. It features a naturally aspirated 4.0-liter flat-six engine, producing an impressive 518 horsepower and 346 lb-ft of torque. The car's lightweight construction, advanced aerodynamics, and precise handling make it a true track weapon, capable of delivering exhilarating performance on both the road and the racetrack.
 
 
 -- Engine and technical Specifications 

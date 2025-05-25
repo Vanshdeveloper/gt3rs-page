@@ -4,8 +4,20 @@
     box-sizing: border-box;
 }
 
+::-webkit-scrollbar {
+    margin: 12px;
+    width: 12px;
+    background-color: var(--silver);
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: var(--silver-2);
+}
+
 :root {
     --font-lato: "Lato", sans-serif;
+    --silver: #cfcfcf;
+    --silver-2: #aaaaaa;
 }
 
 body {
@@ -15,13 +27,18 @@ body {
 }
 
 header {
+    position: fixed;
+    left: 0;
+    top: 0;
     width: 100%;
     padding: 30px 30px;
     display: flex;
     align-items: center;
     justify-content: center;
-    /* transform: translateX(25%); */
     font-family: var(--font-lato);
+    background-color: #fff;
+    z-index: 999;
+    box-shadow: 0 0 12px #cfcfcf;
 }
 
 header .container {
@@ -56,6 +73,12 @@ header .container .logo {
     font-size: 21px;
 }
 
+
+
+/**********************************************
+    Main  
+**********************************************/
+
 main {
     width: 100%;
     display: flex;
@@ -63,9 +86,87 @@ main {
     justify-content: center;
 }
 
+
+
+/**********************************************
+    Home section 
+**********************************************/
+
 #home {
     max-width: 1200px;
     width: 100%;
-    margin: 30px 0;
-    padding: 0 30px;
+    height: 100vh;
+    /* margin: 170px 0; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#home .home-content {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.model-signature-outer {
+    margin-bottom: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.model-signature {
+    position: absolute;
+    width: 360px;
+    height: 100px;
+    background: url(/assests/images/911-model-signature.svg);
+    background-repeat: no-repeat;
+}
+
+.home-content .home-image {
+    height: 300px;
+    max-width: 895px;
+    width: 100%;
+    background: url(/assests/images/911-gt3-rs-side.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    z-index: 1;
+}
+
+@media (max-height: 650px) {
+    #home {
+        margin: 100px 0;
+    }
+}
+
+@media (max-width: 480px) {
+    #home {
+        padding: 0 0 !important;
+    }
+
+    .model-signature-outer {
+        margin-bottom: 0px;
+    }
+}
+
+@media (max-width: 400px) {
+    .model-signature {
+        width: 260px;
+        height: 100px;
+    }
+
+    .home-content .home-image {
+        height: 260px;
+        width: 100%;
+    }
+}
+
+@media (max-width: 1200px) {
+    #home {
+        padding: 0 30px;
+    }
 }

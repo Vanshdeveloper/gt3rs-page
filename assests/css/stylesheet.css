@@ -60,7 +60,7 @@ header .container .nav-btn ion-icon {
 }
 
 header .container .logo {
-    background: url(/assests/images/porsche-logo.png);
+    background: url(../images/porsche-logo.png);
     height: 15px;
     width: 220px;
     background-size: cover;
@@ -122,7 +122,7 @@ main {
     position: absolute;
     width: 360px;
     height: 100px;
-    background: url(/assests/images/911-model-signature.svg);
+    background: url(../images/911-model-signature.svg);
     background-repeat: no-repeat;
 }
 
@@ -130,7 +130,7 @@ main {
     height: 300px;
     max-width: 895px;
     width: 100%;
-    background: url(/assests/images/911-gt3-rs-side.png);
+    background: url(../images/911-gt3-rs-side.png);
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;

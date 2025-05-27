@@ -154,6 +154,15 @@ main {
 }
 
 @media (max-width: 400px) {
+    header {
+        padding: 25px 25px;
+    }
+
+    header .container .logo {
+        height: 15px;
+        width: 170px;
+    }
+
     .model-signature {
         width: 260px;
         height: 100px;
